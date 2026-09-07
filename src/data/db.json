@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Fix navbar bug",
+      "description": "...",
+      "startDate": "",
+      "dueDate": "",
+      "column": "to do",
+      "position": 1000
+    },
+    {
+      "id": "2",
+      "title": "Implement feature 1",
+      "description": "...",
+      "startDate": "2026-08-29",
+      "dueDate": "2026-09-01",
+      "column": "in progress",
+      "position": 1000
+    },
+    {
+      "id": "3",
+      "title": "Implement feature 2",
+      "description": "...",
+      "startDate": "2026-08-20",
+      "dueDate": "2026-08-20",
+      "column": "done",
+      "position": 2000
+    },
+    {
+      "id": "4",
+      "title": "Fix button",
+      "description": "...",
+      "startDate": "",
+      "dueDate": "",
+      "column": "to do",
+      "position": 2000
+    },
+    {
+      "id": "5",
+      "title": "Implement feature 3",
+      "description": "...",
+      "startDate": "",
+      "dueDate": "",
+      "column": "to do",
+      "position": 3000
+    },
+    {
+      "id": "6",
+      "title": "Implement feature 4",
+      "description": "...",
+      "startDate": "",
+      "dueDate": "",
+      "column": "to do",
+      "position": 4000
+    },
+    {
+      "title": "aaa",
+      "description": "aaaa",
+      "dueDate": "2026-09-01",
+      "startDate": "2026-09-01",
+      "column": "to do",
+      "position": 5000,
+      "id": "tY1ibbM7VmQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
